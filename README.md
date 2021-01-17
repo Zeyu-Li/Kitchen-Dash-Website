@@ -1,23 +1,12 @@
-﻿
-# Website Boilerplate
+﻿# Kitchen Dash Landing Page
 
-## About
+<img src="img/logo.png" alt="logo" style="width: 300px;text-align:center;" />
 
-This project folder is a boilerplate for web projects. 
-It is free to use (MIT Licence)
+Kitchen Dash will help you share your recipes with the work and view user created content! Browse through a curated collection of user created recipes with instructions, ingredients, ratings
 
-Contains all components of a web-based system
 
-* css - stores css
-* images- stores image files
-* js - stores js files
-* jslib - stores js libraries
 
-Nothing more, nothing less
-
-## Usage
-
-If no js lib is used, delete the jslib directory
+Kitchen Dash for HackED 2021, a 24 hour hackathon! 
 
 ## Licence
 

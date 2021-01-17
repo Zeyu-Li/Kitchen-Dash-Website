@@ -149,6 +149,12 @@ main p {
 .quote {
     max-width: 960px;
 }
+.typer {
+    font-size: 2em;
+}
+.phone {
+    cursor: not-allowed;
+}
 .main_h {
     color: rgb(22, 112, 255);
     opacity: .7;
